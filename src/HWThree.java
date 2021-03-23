@@ -8,11 +8,11 @@ public class HWThree {
 		i++;
 		i++;
 		System.out.println(i);
-		i--;
-		i--;
-		i--;
-		i--;
-		i--;
+		--i;
+		--i;
+		--i;
+		--i;
+		--i;
 		System.out.println(i);
 		
 		float value_1 = 1.5f;
